@@ -1,2 +1,2 @@
 # study
-CS, 알고리즘 스터디
+Kotlin In Action
